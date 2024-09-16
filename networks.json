@@ -1,0 +1,12 @@
+{
+  "sepolia": {
+    "WorldCup": {
+      "address": "0x5432983c99D859E64ec76215Df314eB34D05dABE",
+      "startBlock": 6700368
+    },
+    "Contract": {
+      "address": "0x6121c5A0Ab2d0A3e77D58018099EA73bbD572A3e",
+      "startBlock": 6667241
+    }
+  }
+}
